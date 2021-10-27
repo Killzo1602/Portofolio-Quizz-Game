@@ -1,0 +1,172 @@
+[
+  {
+    "question": "Which of the following is the correct way of creating an hyperlink in HTML?",
+    "choice1": "<a>www.developer.mozilla.org</a>",
+    "choice2": "<a href='www.developer.mozilla.org' Mozilla</a>",
+    "choice3": "<a href='www.developer.mozilla.org'>Mozilla</a>",
+    "choice4": "<a link='www.developer.mozilla.org'>Mozilla</a>",
+    "answer": 3
+  },
+  {
+    "question": "How can you created rounded corners using CSS?",
+    "choice1": "border[round]: 30px",
+    "choice2": "corner-effect: round;",
+    "choice3": "border-radius: 30px;",
+    "choice4": "alpha-effect: round-corner;",
+    "answer": 3
+  },
+  {
+    "question": " How do you write 'Hello World' in an alert box?",
+    "choice1": "msgBox('Hello World');",
+    "choice2": "alertBox('Hello World');",
+    "choice3": "msg('Hello World');",
+    "choice4": "alert('Hello World');",
+    "answer": 4
+  },
+  {
+    "question": "What does HTML stand for?",
+    "choice1": "Hyperlinks and Text Markup Language",
+    "choice2": "Hyper Text Markup Language",
+    "choice3": "Home Tool Markup Language",
+    "choice4": "None of the above",
+    "answer": 2
+  },
+  {
+    "question": "Who is making the web standars?",
+    "choice1": "Oracle",
+    "choice2": "Firefox",
+    "choice3": "The World Wide Web Consortium",
+    "choice4": "Netscape Navigator",
+    "answer": 3
+  },
+  {
+    "question": "How to re-size/scale objects using CSS",
+    "choice1": "transform: scale(2,4);",
+    "choice2": "scale-object: 2,4;",
+    "choice3": "scale: (2,4);",
+    "choice4": "None",
+    "answer": 1
+  },
+  {
+    "question": "__________ is a property that allows developers to add rounded corners on the design elements",
+    "choice1": "Corner",
+    "choice2": "Box Shadow",
+    "choice3": "Round Corner",
+    "choice4": "Border-Radius",
+    "answer": 4
+  },
+  {
+    "question": "What does the a stand for in RGBa?",
+    "choice1": "alpha",
+    "choice2": "aqua",
+    "choice3": "Apple",
+    "choice4": "about",
+    "answer": 1
+  },
+  {
+    "question": "How do four values work on border-radius",
+    "choice1": "top, bottom, left, right",
+    "choice2": "up, down, front, behind",
+    "choice3": "top-left, top-right, bottom-right, bottom-left",
+    "choice4": "bottom-left, bottom-right, top-right, top-left",
+    "answer": 3
+  },
+  {
+    "question": "Which of the following characters indicate closing of a tag?",
+    "choice1": "/",
+    "choice2": ".",
+    "choice3": "!",
+    "choice4": ">",
+    "answer": 1
+  },
+  {
+    "question": "To insert a JavaScript into an HTML page, which tag is used?",
+    "choice1": "< script=’java’>",
+    "choice2": "< javascript>",
+    "choice3": "< script>",
+    "choice4": "< js>",
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is correct to write “Hello World” on the web page?",
+    "choice1": "System.out.println(“Hello World”)",
+    "choice2": "print(“Hello World”)",
+    "choice3": "document.write(“Hello World”)",
+    "choice4": "response.write(“Hello World”)",
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a valid JavaScript variable name?",
+    "choice1": "2java",
+    "choice2": "_java_and_ java _names",
+    "choice3": "javaandjava",
+    "choice4": "None of the above",
+    "answer": 1 
+  },
+  {
+    "question": "Which of the ways below is incorrect of instantiating a date?",
+    "choice1": "new Date(dateString)",
+    "choice2": "new Date()",
+    "choice3": "new Date(seconds)",
+    "choice4": "new Date(year, month, day, hours, minutes, seconds, milliseconds)",
+    "answer": 3
+  },
+  {
+    "question": "___________ JavaScript is also called client-side JavaScript.",
+    "choice1": "Microsoft",
+    "choice2": "Navigator",
+    "choice3": "LiveWire",
+    "choice4": "Native",
+    "answer": 2
+  },
+  {
+    "question": "How to append a value to an array of Java Script?",
+    "choice1": "arr[arr.length] = value ",
+    "choice2": "arr[arr.length+1] = new Arrays()",
+    "choice3": "arr[arr.length-1] = value",
+    "choice4": "arr[arr.length*1] = value",
+    "answer": 1
+  },
+  {
+    "question": "How to add text shadow using CSS?",
+    "choice1": "font: shadowed 5px 5px 5px grey;",
+    "choice2": "text-shadow: 5px 5px 5px grey;",
+    "choice3": "font-shadow: 5px 5px 5px grey;", 
+    "choice4": "shadow: text 5px 5px 5px grey;",
+    "answer":2
+  },
+  {
+    "question": "Box-Shadow is a property that allows developers to apply a....",
+    "choice1": "Border",
+    "choice2": "Drop Shadow",
+    "choice3": "Rounded Corner", 
+    "choice4": "Background",
+    "answer":2
+  },
+  {
+    "question": "____________tag is used to specify an inline frame",
+    "choice1": "<jframe>",
+    "choice2": "<frameset>",
+    "choice3": "<iframe>", 
+    "choice4":"<frame>",
+    "answer":3
+  },
+  {
+    "question": "What is mean by DTD?",
+    "choice1": "Document type data",
+    "choice2": "Data type definition",
+    "choice3": "Document type definition ", 
+    "choice4": "Definition type document",
+    "answer":3
+  },
+  {
+    "question": "How many graphic object types are allowed by SVG?",
+    "choice1": "3",
+    "choice2": "2",
+    "choice3": "1", 
+    "choice4": "As many as you want",
+    "answer": 3
+  }
+  
+
+]
